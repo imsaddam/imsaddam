@@ -16,7 +16,7 @@
 - 📫 How to reach me: [imsaddam](https://www.linkedin.com/in/imsaddam/)
 
 
-I love to learn something new every day and expand my knowledge. Over the last couple of years, I have gained solid and practical experience working with several local and international IT companies. I have worked with Mozilla Firefox as a Quality Assurance Contributor and Community Mentor. Beyond this, I have also worked with two other local organisations as a freelance WordPress developer. I work as a freelance Software Tester at uTest.com and a part-time Open Source Software Compliance Assistant at the University of Luxembourg under the Interdisciplinary Centre for Security, Reliability and Trust (SnT).
+I love to learn something new every day and expand my knowledge. Over the last couple of years, I have gained solid and practical experience working with several local and international IT companies. I have worked with Mozilla Firefox as a Quality Assurance Contributor and Community Mentor. Beyond this, I have also worked with two other local organisations as a freelance WordPress developer. I have also worked as a freelance Software Tester at uTest.com and a part-time Open Source Software Compliance Assistant at the University of Luxembourg under the Interdisciplinary Centre for Security, Reliability and Trust (SnT). Currently, I am working at Advanzia Bank S.A, Luxembourg head office as a Trainee Software Tester 
 
 ## SKILLS
 - Java, Python, HTML, CSS, Fast-API,
