@@ -11,8 +11,7 @@
 <!--## Software Tester | Automation Tester | Manual Tester | Functional Tester | Software QA-->
 
 - 🔭 I’m currently working on Software Test Automation
-- 🌱 I’m currently learning [Test automation with Katalon](https://katalon.com/solutions-overview)
-- 🖥️ See my portfolio at [imsaddam](https://imsaddam.com/?page_id=372)
+- 🌱 I’m currently learning [Test automation with Playwright PYTHON](https://playwright.dev/python/docs/intro)
 - 📫 How to reach me: [imsaddam](https://www.linkedin.com/in/imsaddam/)
 
 
