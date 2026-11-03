@@ -1,38 +1,48 @@
-### Hi 👋 My name is Saddam Hossain
+# Hi 👋 My name is Saddam Hossain
 
-==============================
+## Software Test Engineer based in Luxembourg
 
-## Test Automation Consultant at European Investment Bank (EIB)
-<!--
-**imsaddam/imsaddam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I work as a **Software Test Consultant at the European Parliament**, testing web applications and working closely with developers to investigate issues.
 
+Previously, I worked at the **European Investment Bank** and **Advanzia Bank**, where I gained experience in test automation, banking applications, API testing, and data migration testing. I also worked as a freelance tester on **uTest**, testing web and mobile applications for international clients.
 
---------------------
-<!--## Software Tester | Automation Tester | Manual Tester | Functional Tester | Software QA-->
+I enjoy understanding how applications work, finding problems, and making tests more reliable.
 
-- 🔭 I’m currently working on Software Test Automation
-- 🌱 I’m currently learning [Test automation with Playwright PYTHON](https://playwright.dev/python/docs/intro)
-- 📫 How to reach me: [imsaddam](https://www.linkedin.com/in/imsaddam/)
+- 🔭 Currently working on functional, integration, regression, and end-to-end testing.
+- 🌱 Learning [Playwright with Python](https://playwright.dev/python/docs/intro).
+- 🚀 Interested in software verification and quality assurance in the space sector.
+- 📫 Connect with me on [LinkedIn](https://www.linkedin.com/in/imsaddam/).
 
+## What I Do
 
-I am a results-driven QA Engineer with 3–5 years of experience in end-to-end manual and automation testing, with a strong focus on delivering high-quality software solutions in the financial and banking sector. My background includes hands-on work with Selenium, Katalon Studio, TestNG, Robot Framework, and Postman, supported by a solid foundation in Computer Science (Bachelor’s + Master’s).
+- Plan and execute tests for web applications and connected systems.
+- Develop automated regression tests using Selenium, TestNG, and Robot Framework.
+- Investigate defects with developers and verify fixes.
+- Use SQL to check data accuracy and consistency.
+- Work with Jenkins and Azure DevOps to support automated testing.
+- Document test results and communicate quality risks before releases.
 
-My experience spans major financial institutions in Luxembourg. At the European Investment Bank, I automate functional, integration, and API tests using Java, Groovy, Bash, Katalon, and Selenium, reducing manual testing efforts by 80%. I also work extensively with CI/CD pipelines, SQL databases, and security tools such as WALLIX PAM. Previously at Advanzia Bank, I led manual and automation testing for SEPA payment flows, reducing defect resolution time by 30% and automating over 150 regression test cases.
+## Technical Skills
 
-Before moving into banking, I sharpened my testing skills through freelance projects at uTest, completing 250+ test cycles for global brands and identifying 200+ critical bugs across high-impact applications. My background also includes open-source contribution at Mozilla Firefox and research support at the University of Luxembourg, giving me a versatile perspective across development, testing, and compliance.
+- **Test Automation:** Selenium WebDriver, TestNG, Robot Framework, Katalon Studio
+- **Programming & Scripting:** Java, Python, Groovy, JavaScript, Bash, PowerShell
+- **API Testing:** Postman, Swagger, SoapUI
+- **Web Technologies:** Angular application testing, HTML, CSS
+- **Databases:** SQL, Oracle, Sybase, Cosmos DB
+- **CI/CD & Development Tools:** Git, Jenkins, Azure DevOps, Docker, Maven
+- **Collaboration:** JIRA, Confluence, Trello, Scrum/Agile
+- **Monitoring & Logging:** Splunk, Elasticsearch, Kibana
+- **Operating Systems:** Linux, Unix, Windows
 
-I enjoy working in Agile teams, solving complex technical challenges, and continuously improving my skillset—supported by ISTQB training, multiple testing certifications, CI/CD experience, and hands-on programming in Java, Groovy, Python, and shell scripting. My goal is to contribute to high-performing teams where quality, collaboration, and innovation are valued.
+## Background
 
-## SKILLS
-Technical Skills and Expertise
-- Automation & Programming: Java, Python, Groovy, JavaScript, Shell Scripting, Bash, PowerShell, HTML/CSS
-- Testing Tools & Frameworks: Selenium WebDriver, TestNG, Robot Framework, Katalon Studio, Postman, Swagger, SoapUI, Bugzilla
-- Agile & Collaboration: JIRA, Confluence, Trello, Scrum/Agile, Azure DevOps, SharePoint, Microsoft App Center
-- Financial Domain & Products: TSYS, Temenos T24, Backbase, SEPA, Mastercard, Visa, FX Pricing Data, Credit Risk & Loan Grading, AML, CTF, GDPR.
-- Databases & Tools: SQL (Proficient), Oracle, Sybase, Cosmos DB, SQLdbx, SQL Server Studio.
-- CI/CD & DevOps Tools: Git, Jenkins, Azure DevOps, Docker, Maven.
-- Monitoring & Logging: Splunk, ELK Stack (Elasticsearch, Kibana).
-- Operating Systems: Unix, Linux, Windows.
-- Security & Access Management: WALLIX PAM, WinSCP.
- 
- 
+🎓 Master's in Information and Computer Sciences — University of Luxembourg  
+🎓 Bachelor's in Computer Science and Engineering — Eastern University, Dhaka  
+🎓 Four-year diploma in Data and Telecommunication  
+📜 ISTQB Foundation Level
+
+## Career Interests
+
+After working in banking and European institutions, my main goal is to build a long-term career in the **space sector**.
+
+I want to contribute my testing experience while developing stronger skills in programming, test automation, and software verification.
