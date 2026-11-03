@@ -2,44 +2,53 @@
 
 ## Software Test Engineer based in Luxembourg
 
-I work as a **Software Test Consultant at the European Parliament**, testing web applications and working closely with developers to investigate issues.
+I work as a **Software Test Consultant at the European Parliament**, testing web applications and working with developers to investigate issues.
 
-Previously, I worked at the **European Investment Bank** and **Advanzia Bank**, where I gained experience in test automation, banking applications, API testing, and data migration testing. I also worked as a freelance tester on **uTest**, testing web and mobile applications for international clients.
+Previously, I worked at the **European Investment Bank** and **Advanzia Bank**, focusing on test automation, banking applications, and integration testing. My background also includes freelance testing on **uTest** and QA contributions to **Mozilla**.
 
 I enjoy understanding how applications work, finding problems, and making tests more reliable.
 
-- 🔭 Currently working on functional, integration, regression, and end-to-end testing.
+- 🔭 Working on functional, integration, regression, and end-to-end testing.
 - 🌱 Learning [Playwright with Python](https://playwright.dev/python/docs/intro).
-- 🚀 Interested in software verification and quality assurance in the space sector.
+- 🚀 Working towards a long-term career in the space sector.
 - 📫 Connect with me on [LinkedIn](https://www.linkedin.com/in/imsaddam/).
 
 ## What I Do
 
 - Plan and execute tests for web applications and connected systems.
-- Develop automated regression tests using Selenium, TestNG, and Robot Framework.
+- Automate regression tests using Selenium, TestNG, and Robot Framework.
 - Investigate defects with developers and verify fixes.
-- Use SQL to check data accuracy and consistency.
-- Work with Jenkins and Azure DevOps to support automated testing.
-- Document test results and communicate quality risks before releases.
+- Check data accuracy using SQL.
+- Use Jenkins and Azure DevOps to support automated testing.
 
 ## Technical Skills
 
-- **Test Automation:** Selenium WebDriver, TestNG, Robot Framework, Katalon Studio
-- **Programming & Scripting:** Java, Python, Groovy, JavaScript, Bash, PowerShell
+- **Test Automation:** Playwright, Selenium WebDriver, TestNG, Robot Framework, Katalon Studio
+- **Programming & Scripting:** Java, Python, Groovy, JavaScript, TypeScript, Bash, PowerShell
+- **AI-Assisted Testing:** Using AI tools to prepare test cases, investigate issues, and review test results
 - **API Testing:** Postman, Swagger, SoapUI
 - **Web Technologies:** Angular application testing, HTML, CSS
 - **Databases:** SQL, Oracle, Sybase, Cosmos DB
-- **CI/CD & Development Tools:** Git, Jenkins, Azure DevOps, Docker, Maven
-- **Collaboration:** JIRA, Confluence, Trello, Scrum/Agile
+- **CI/CD & Development:** Git, Jenkins, Azure DevOps, Docker, Maven
+- **Collaboration:** JIRA, Confluence, Trello, Bugzilla, Scrum/Agile
 - **Monitoring & Logging:** Splunk, Elasticsearch, Kibana
 - **Operating Systems:** Linux, Unix, Windows
+
+## Open Source & Community
+
+- **Mozilla:** QA contributor and community mentor, involved in testing, bug reporting, fix verification, and bug triage.
+- **Firefox Student Ambassador:** Promoted Mozilla projects and community participation.
+- **GDG Bangla:** Helped coordinate Google Developers Study Jams.
+- **Code.org:** Volunteered in support of computer science education.
+
+[View my Mozilla contributions](https://bugzilla.mozilla.org/user_profile?user_id=497512)
 
 ## Background
 
 🎓 Master's in Information and Computer Sciences — University of Luxembourg  
 🎓 Bachelor's in Computer Science and Engineering — Eastern University, Dhaka  
 🎓 Four-year diploma in Data and Telecommunication  
-📜 ISTQB Foundation Level
+📜 ISTQB Foundation Level  
 
 ## Career Interests
 
